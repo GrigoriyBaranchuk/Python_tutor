@@ -89,4 +89,22 @@ def duplicate_count(text):
 string = "the_stealth-warrior"
 
 
+def ret(string):
+    for i in string:
+        yield i
+
+a =ret(string)
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
+
+
+
+
 
