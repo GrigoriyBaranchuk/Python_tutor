@@ -1,4 +1,4 @@
-string = "one thousand two hundred five"
+string = "two hundred forty-five"
 
 
 
